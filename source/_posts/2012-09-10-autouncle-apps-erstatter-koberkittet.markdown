@@ -29,6 +29,6 @@ I AutoUncle-garagen har utålmodigheden for at udgive det nye design været stor
 
 Funktionerne i Køberkittet kommer til at leve videre i app-format. Den første betalings-app bliver "Solgte biler" - en funktion som var populær i Køberkittet.
 
-Hvad synes du om det nye format og den nye bilvisning? Og hvilken app er øverst på din ønskeliste?
+**Hvad synes du om det nye format og den nye bilvisning? Og hvilken app er øverst på din ønskeliste?**
 
 PS. Et stort tak til alle jer som har hjulpet os med at give feedback - vi lytter meget gerne til både ros og kritik.
