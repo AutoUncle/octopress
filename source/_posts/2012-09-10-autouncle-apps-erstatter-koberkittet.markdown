@@ -3,6 +3,7 @@ layout: post
 title: "AutoUncle Apps erstatter Køberkittet"
 date: 2012-09-10 15:19
 comments: true
+author: Jonas
 categories: 
 ---
 Siden vi første gang lancerede Køberkittet for nogle måneder siden, har vi gjort en stor indsats for at indsamle feedback fra brugerne. Uanset hvad vi laver i AutoUncle, er det enormt vigtigt for os, at brugtbilskøberne elsker resultatet og har lyst til at bruge værktøjerne. Tilbagemeldingen på Køberkittet var meget klar; det er brugbart og en god hjælp i biljagten. Men det er ikke banebrydende. 
@@ -16,7 +17,7 @@ En af de primære tilbagemeldinger på Køberkittet var, at det er forvirrende 
 
 Nok snak. Lad mig præsentere AutoUncle's nye løsning; **AutoUncle Apps**
 
-{% img images/posts/autouncle_apps.png %}
+{% img /images/posts/autouncle_apps.png %}
 
 Fremover vil vores fokus være at udvikle ekstra-funktionalitet i App-format - så tæt på bilen som muligt. Som udgangspunkt har vi udgivet fem gratis Apps (Favorit-bil, Prishistorik, Tjek restgæld og kilometerfusk, Se typiske fejl og Beregn forsikringspris) og vi arbejder nu på at udbygge butikken med en blanding af gratis og betalings-apps.
 
@@ -29,7 +30,5 @@ I AutoUncle-garagen har utålmodigheden for at udgive det nye design været stor
 Funktionerne i Køberkittet kommer til at leve videre i app-format. Den første betalings-app bliver "Solgte biler" - en funktion som var populær i Køberkittet.
 
 Hvad synes du om det nye format og den nye bilvisning? Og hvilken app er øverst på din ønskeliste?
-
-/Jonas
 
 PS. Et stort tak til alle jer som har hjulpet os med at give feedback - vi lytter meget gerne til både ros og kritik.
